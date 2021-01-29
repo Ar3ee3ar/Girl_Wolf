@@ -3,9 +3,9 @@ my sophomore year project is Girl & Wolf Game from Java Object-Oriented-Program 
 # Story
 Grandma order Little Red to pick sunflower in forest and sell at The Shop and bring money to Grandma. Unfortunately, The Herd come to prevent her from success.
 
-Open page
+  Open page
 ![review](https://github.com/Arzeezar/Girl_Wolf/blob/main/review_img/game_1.png)
-guide:
+  guide:
 - when sell sunflower you will receive 1000 coin.
 - use arrow to move.
 - use Upwards Arrow for jump to front. 
